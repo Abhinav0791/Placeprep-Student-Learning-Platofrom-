@@ -55,3 +55,16 @@ to run the code download the zip file
 unzip it
 Open the zip file with cmd prompt 
 steup react and type npm run dev
+<img width="2376" height="1259" alt="Screenshot 2025-11-28 232639" src="https://github.com/user-attachments/assets/41638ba1-8042-40be-bbbb-64ed45da4330" />
+
+
+<img width="2397" height="1166" alt="Screenshot 2025-11-28 232658" src="https://github.com/user-attachments/assets/b4b97e88-f39d-458f-9e33-148b5dd3dc05" />
+
+<img width="2510" height="1239" alt="Screenshot 2025-11-28 232715" src="https://github.com/user-attachments/assets/2d83d55b-f509-465e-b606-820e25b9403b" />
+
+
+
+<img width="2447" height="1240" alt="Screenshot 2025-11-28 232745" src="https://github.com/user-attachments/assets/79f0452c-a30d-4cd6-b767-1e7e4741dc01" />
+
+
+
